@@ -3,7 +3,7 @@
 
 I'm a programmer and future electrical engineer with a passion for autonomus systems and AI. When I'm not coding, I'm probably working on PCB designs.
 
----
+
 
 ## GitHub Stats
 
@@ -12,7 +12,7 @@ I'm a programmer and future electrical engineer with a passion for autonomus sys
 <!-- Optional: Add top languages card -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true) -->
 
----
+
 
 ## Languages 
 
@@ -28,7 +28,7 @@ I'm a programmer and future electrical engineer with a passion for autonomus sys
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
----
+
 
 ## About Me
 
@@ -39,7 +39,7 @@ I'm a programmer and future electrical engineer with a passion for autonomus sys
 <tr><td>Building intelligent systems that perceive, decide, and act without human input</td></tr>
 <tr><td>Obsessed with the future of autonomy. From flying, driving, or recognizing faces and symbols</td></tr>
 </table>
----
+
 
 ## Connect With Me
 
